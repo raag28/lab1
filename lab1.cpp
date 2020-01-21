@@ -56,6 +56,7 @@ struct Shape {
 };
 
 struct Particle {
+     to the Desktop folder on your classroom machi
 	Shape s;
 	Vec velocity;
 };
@@ -355,7 +356,6 @@ void render()
 
 
 }
-
 
 
 
